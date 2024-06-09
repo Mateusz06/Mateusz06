@@ -22,4 +22,8 @@
     <li>Game Development: LUA</li>
 </ul>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mateusz06&theme=highcontrast&border_radius=8&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+<div>
+    <a href="https://git.io/streak-stats">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mateusz06&theme=transparent&fire=C0CCFF&ring=C0CCFF&currStreakNum=C0CCFF&currStreakLabel=C0CCFF&sideLabels=C0CCFF&dates=C0CCFF&sideNums=C0CCFF&border=C0CCFF&stroke=C0CCFF" alt="GitHub Streak" />
+    </a>
+</div>
