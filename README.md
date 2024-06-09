@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mateusz 👋</h1>
 
-<p>Welcome to my GitHub profile! I'm passionate about Cars, Web Development, Game Development, Software Development and I'm always excited to learn new technologies and work on interesting projects. Below, you'll find a little more about me and some of my work.</p>
+<p>Welcome to my GitHub profile! I'm a student at the Bit Academy in the Netherlands. I'm passionate about Cars, Web Development, Game Development, Software Development and I'm always excited to learn new technologies and work on interesting projects. Below, you'll find a little more about me and some of my work.</p>
 
 <h2>About Me</h2>
 <ul>
