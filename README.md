@@ -13,7 +13,8 @@
 <ul>
     <li><strong><a href="https://github.com/Mateusz06/forzyweb">My Website</a></strong></li>
     <li><strong><a href="https://github.com/Mateusz06/RocketJumper">My Game</a></strong></li>
-    <li><strong><a href="https://mateusz06.github.io/HydraMotors/">My Project</a></strong></li>
+    <li><strong><a href="https://mateusz06.github.io/HydraMotors/">My Project 1</a></strong></li>
+    <li><strong><a href="https://mateusz06.github.io/sonix/">My Project 2</a></strong></li>
 </ul>
 
 <h2>Skills</h2>
