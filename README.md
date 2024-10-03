@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 <ul>
     <li>🔭 I’m currently working on my own website ( forzy.nl ) and my own game Rocket Jumper, both are still in development.</li>
-    <li>🌱 I’m currently learning HTML, JS, CSS and Blender</li>
+    <li>🌱 I’m currently learning HTML, JS, CSS, PHP and Blender</li>
 </ul>
 
 <h2>Projects</h2>
