@@ -15,7 +15,7 @@
     <li><strong><a href="https://github.com/Mateusz06/RocketJumper">My Game</a></strong></li>
     <li><strong><a href="https://mateusz06.github.io/HydraMotors/">HydraMotors Project</a></strong></li>
     <li><strong><a href="https://mateusz06.github.io/sonix/">Sonix Project</a></strong></li>
-    <li><strong><a href="#">WhiteFox Project</a></strong></li>
+    <li><strong><a href="#">*** Project (upcoming)</a></strong></li>
 </ul>
 
 <h2>Skills</h2>
