@@ -14,7 +14,7 @@
     <li><strong><a href="https://mateusz06.github.io/forzyweb/">My Website</a></strong></li>
     <li><strong><a href="https://mateusz06.github.io/HydraMotors/">HydraMotors Project</a></strong></li>
     <li><strong><a href="https://mateusz06.github.io/sonix/">Sonix Project</a></strong></li>
-    <li><strong><a href="#">*** Project (upcoming)</a></strong></li>
+    <li><strong><a href="https://github.com/Mateusz06/Project-SNWD">SNWD Project</a></strong></li>
 </ul>
 
 <h2>Skills</h2>
